@@ -36,16 +36,7 @@ https://www.shishirneupanesharma.com.np/assets/Shishir%20Neupane%20CV.pdf
 - Gaming
 - Movies, Series, Animes
 - Writing (occasional)
-
----
-
-## Languages
-
-- English  
-- Nepali  
-- Hindi  
-- Norwegian (Beginner)  
-- German (Beginner)
+- Learning new languages (currently norwegian and german)
 
 ---
 
