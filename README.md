@@ -1,5 +1,5 @@
 <h1 align="center">
-  ## Shishir Neupane
+  Shishir Neupane
 </h1>
 
 ## About Me
