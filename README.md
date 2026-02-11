@@ -1,6 +1,6 @@
-<p align="center">
+<h1 align="center">
   ## Shishir Neupane
-</p>
+</h1>
 
 ## About Me
 
