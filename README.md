@@ -29,6 +29,12 @@ https://www.shishirneupanesharma.com.np/assets/Shishir%20Neupane%20CV.pdf
 
 ---
 
+<div align="center">
+<img  src="https://raw.githubusercontent.com/Shishir-129/Shishir-129/output/github-contribution-grid-snake.svg" alt="contribution graph" />
+</div>
+
+---
+
 ## Personal Interests
 
 - Playing guitar  
