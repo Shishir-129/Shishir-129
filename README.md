@@ -9,8 +9,7 @@
 ## 🧭 <span style="color:#4A90E2;">About Me</span>
 
 I am a Computer Engineering undergraduate with strong academic and practical interests in  
-Artificial Intelligence, Machine Learning, Data Science, Web Development, and Software  
-Development.
+Artificial Intelligence, Machine Learning, Data Science, Web Development, and Software Development.
 
 I am particularly interested in understanding real-world problems, translating client  
 requirements into technical solutions, and building reliable, scalable, and efficient software  
