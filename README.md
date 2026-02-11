@@ -1,4 +1,6 @@
-                                  ## Shishir Neupane
+<p align="center">
+  ## Shishir Neupane
+</p>
 
 ## About Me
 
